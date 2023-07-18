@@ -1,0 +1,9 @@
+@import 'style/fonts';
+
+$color: tomato;
+
+
+body{
+    background: $color;
+    font-family: inter-v12-latin_cyrillic-600, sans-serif;
+}
